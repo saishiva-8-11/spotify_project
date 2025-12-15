@@ -1,0 +1,9 @@
+{
+	"name": "spotifyprojectDF",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d019a25-c1f1-40da-af31-2055c6ab4847",
+		"tenantId": "36e0c29e-2fba-4e91-9128-d54560121ac4"
+	}
+}
